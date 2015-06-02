@@ -1,0 +1,47 @@
+[33mcommit a7a7ab6338003046aee3a0d1f7cb196f7218e25b[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Mon May 18 17:05:02 2015 +0800
+
+    remove test.txt
+
+[33mcommit 461726446beb087cc7ce37216187990a7c7c0ef7[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Mon May 18 17:02:58 2015 +0800
+
+    add test.txt
+
+[33mcommit 640dc34ef214fddb18bc58fce053b2aa4c07fa41[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Mon May 18 14:22:06 2015 +0800
+
+    test01
+
+[33mcommit 4fde2d11b61f8a6f32f2c383fcc096de30bbd14d[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Thu May 14 08:15:02 2015 +0800
+
+    git taracks changes
+
+[33mcommit ab24f50d634a28de6ad458896fdc9b0f479e9525[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Thu May 14 08:10:37 2015 +0800
+
+    understand how stage works
+
+[33mcommit 0680be5b64f84aafe047d104d56b7bd3aafe0773[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Thu May 14 07:39:56 2015 +0800
+
+    append GPL
+
+[33mcommit 179e5503f2daeb7a1c123c04272b4ae82aa059cc[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Thu May 14 07:38:04 2015 +0800
+
+    add distributed
+
+[33mcommit 24a9e0c6d049a8535279bfb0c9354e81dd2fce17[m
+Author: xiaolongheni <xiaolongheni@126.com>
+Date:   Wed May 13 09:22:49 2015 +0800
+
+    init
